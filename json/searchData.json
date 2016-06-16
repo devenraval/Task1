@@ -1,0 +1,29 @@
+{
+  "Tiles": [
+    {
+	"id"		: 1,
+      	"color"		: "#428bca",
+      	"title"		: "Sales"
+    },
+    {
+	"id"		: 2,
+      	"color"		: "#5cb85c",
+      	"title"		: "Marketing"
+    },
+    {
+	"id"		: 3,
+      	"color"		: "#f0ad4e",
+      	"title"		: "Finance"
+    },
+{
+	"id"		: 4,
+      	"color"		: "#d9534f",
+      	"title"		: "Accounts"
+    },
+{
+	"id"		: 4,
+      	"color"		: "#428bca",
+      	"title"		: "Purchase"
+    }
+  ]
+}

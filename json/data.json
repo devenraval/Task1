@@ -1,0 +1,28 @@
+{
+            
+"modules": [
+	{
+                    
+	"series": "SeriesA",
+
+        "data": [["100", "45", "80", "20", "12", "90", "20", "30", "95", "60"]],
+  
+        "labels": ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10"],
+
+        "colours": [{ 
+
+		"fillColor": "#DFF0D8",
+
+                "strokeColor": "#4CAE4C",
+
+                "pointColor": "red",
+
+                "pointStrokeColor": "#fff",
+
+                "pointHighlightFill": "#fff",
+
+                "pointHighlightStroke": "rgba(151,187,205,0.8)"
+                    }]
+
+      }
+]}

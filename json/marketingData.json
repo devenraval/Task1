@@ -1,0 +1,49 @@
+{"Complex":[
+{
+"name":"California",	
+"data": [15,30,20]
+},
+{
+"name":"Virginia",	
+"data": [50,45,62]
+},
+{
+"name":"Washington",	
+"data": [75,48,35]
+},
+{
+"name":"Alaska",	
+"data": [61,80,35]
+}
+],
+ "Simple":[
+{
+"name":"Monday",	
+"values": 25
+},
+{
+"name":"Tuesday",
+	"values": 40
+},
+{
+"name":"Wednesday",
+	"values": 30
+},
+{
+"name":"Thursday",
+	"values": 60
+},
+{
+"name":"Friday",
+	"values": 20
+},
+{
+"name":"Saturday",
+	"values": 80
+},
+{
+"name":"Sunday",
+	"values": 20
+}
+]
+}

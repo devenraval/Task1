@@ -1,0 +1,49 @@
+{"Complex":[
+{
+"name":"New York",	
+"data": [25,55,32]
+},
+{
+"name":"New Hampshire",	
+"data": [28,49,70]
+},
+{
+"name":"New Jersey",	
+"data": [75,20,80]
+},
+{
+"name":"New Something",	
+"data": [35,60,80]
+}
+],
+ "Simple":[
+{
+"name":"Monday",	
+"values": 60
+},
+{
+"name":"Tuesday",
+	"values": 100
+},
+{
+"name":"Wednesday",
+	"values": 90
+},
+{
+"name":"Thursday",
+	"values": 30
+},
+{
+"name":"Friday",
+	"values": 80
+},
+{
+"name":"Saturday",
+	"values": 40
+},
+{
+"name":"Sunday",
+	"values": 20
+}
+]
+}

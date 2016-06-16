@@ -1,0 +1,31 @@
+{
+  "Tiles": [
+    {
+	"id"		: 1,
+      	"color"		: "primary",
+      	"icon"		: "fa-shopping-cart",
+      	"title"		: "Sales",
+      	"subhead"	: "This year",
+	"value"		: 250,
+	"value2"	: 98
+    },
+    {
+	"id"		: 2,
+      	"color"		: "info",
+      	"icon"		: "fa-cloud-download",
+      	"title"		: "Marketing",
+      	"subhead"	: "This month",
+	"value"		: 846,
+	"value2"	: 12
+    },
+    {
+	"id"		: 3,
+      	"color"		: "success",
+      	"icon"		: "fa-comments",
+      	"title"		: "Finance",
+      	"subhead"	: "This week",
+	"value"		: 458,
+	"value2"	: 25
+    }
+  ]
+}

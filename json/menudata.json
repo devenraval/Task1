@@ -1,0 +1,23 @@
+{
+	"menus": [{
+		"id":1,
+		"title": "Menu1",
+		"hasChildren":true,
+		"link":"#",
+		"menuChild": [{"title":"sub1-1","link":"#1"},{"title":"sub1-2","link":"#2"},{"title":"sub1-3","link":"#3"}]
+	},
+	{
+		"id":2,
+		"title": "Menu2",
+		"hasChildren":false,
+		"link":"#"
+	},
+	{
+		"id":3,
+		"title": "Menu3",
+		"hasChildren":true,
+		"link":"#",
+		"menuChild": [{"title":"sub2-1","link":"#1"},{"title":"sub2-2","link":"#2"},{"title":"sub2-3","link":"#3"}]
+	}
+	]
+}
