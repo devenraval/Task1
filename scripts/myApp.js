@@ -1,5 +1,5 @@
 (function(){
-var app = angular.module('chartApp',[]);
+var app = angular.module('chartApp',['dirchartApp']);
 
 app.controller('StaticMenuController',function(){
 	this.showMe=0;
