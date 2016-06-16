@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html  ng-app="chart">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <script src="js/jquery-1.12.3.min.js"></script>
+    <script src="angCharts/Chart.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="angCharts/ui-bootstrap-tpls.min.js"></script>
+    <script src="angCharts/angular-chart.js"></script>
+    <script src="angCharts/script.js"></script>
+</head>
+
+<body>
+    <div class="graph-display col-md-6" ng-controller="dataBox">
+        <div class="bar-chart-box" ng-repeat="module in ocw.modules">Bar Graph Populated with JSON
+            <canvas class="chart chart-bar" data="module.data" labels="module.labels" series="module.series"></canvas>
+        </div>
+    </div>  
+</body>
+
+</html>
