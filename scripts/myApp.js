@@ -119,7 +119,7 @@ app.controller('MarketingController', function($scope,$http) {
 
 			Highcharts.chart('container3',{
 			title: {
-			text: 'Sales Data'
+			text: 'Marketing Data'
 			},
 			xAxis: {
 			categories: ['Jan', 'Feb', 'Mar']
@@ -132,7 +132,7 @@ app.controller('MarketingController', function($scope,$http) {
 				type:'column'
 			},
 			title: {
-				text: 'Sales Data'
+				text: 'Marketing Data'
 			},
 			xAxis: {
 				categories: ['Jan', 'Feb', 'Mar']
@@ -142,7 +142,7 @@ app.controller('MarketingController', function($scope,$http) {
 
 			Highcharts.chart('container4', {
       	title: {
-        text: 'Pie Chart With Json'
+        text: 'Pie Chart Marketing'
       	},
 			chart:{type:'pie'},
 			plotOptions:{pie:{dataLabels:
