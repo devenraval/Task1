@@ -1,0 +1,33 @@
+/* CSS Document */
+.navbar .navbar-brand span.logo {
+  border: 2px solid #5c7399;
+  padding: 5px;
+  border-radius: 8px;
+}
+
+.info-box {
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+.info-box .info-icon {
+  padding: 7px;
+  display: inline-block;
+  width: 28%;
+  text-align: center;
+}
+
+.info-box .info-details {
+  display: inline-block;
+  width: 70%;
+  padding-left: 5%;
+}
+.info-box .info-details .pull-right {
+  margin-right: 5px;
+}
+ul.info-list {
+  margin-top: 20px;
+}
+
+.sub-menu li{
+	padding-left:25px;
+}
