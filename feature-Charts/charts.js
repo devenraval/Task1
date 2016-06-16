@@ -14,7 +14,7 @@
   	app123.directive('chart', function () {
   		return {
   			restrict:'A',
-  			template:'<chart title="Line chart example" xData="lineChartXData" yData="lineChartYData" xName="Week" yName="Hours" subtitle="This is an example"></chart>',
+  			template:'<chart title="Finance Data" xData="lineChartXData" yData="lineChartYData" xName="Week" yName="Hours" subtitle="JSON Populated data"></chart>',
   			replace:true,
   			controller: MainCtrl,
   			link:function (scope, element, attrs) {
