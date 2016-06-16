@@ -162,5 +162,3 @@ app.controller('MarketingController', function($scope,$http) {
 
 
 })();
-
-	
