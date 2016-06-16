@@ -46,7 +46,7 @@ app.controller('SalesController', function($scope,$http) {
 	 var labels=new Array(); 
 	 var format_json = new Array();	 
 	 var processed_json = new Array(); 
-   		$.getJSON('json/SalesData.json', function(data) {
+   		$.getJSON('json/salesData.json', function(data) {
                    	for (i = 0; i <(data.Complex.length); i++){												
                     	var temp="{\"name\":"+"\""+data.Complex[i].name+"\",\"data\":["+data.Complex[i].data+"]}";
 						var obj =JSON.parse(temp.toString());				
