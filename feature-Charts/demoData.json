@@ -1,0 +1,17 @@
+{
+"xData":["Mon","Tue","Wed","Thu","Fri","Sat","Sun"],
+ "yData":[
+{
+"name":"ABC",	
+"data": [10,20,30,40,50]
+},
+{
+"name":"XYZ",	
+"data": [15,10,25,5,20]
+},
+{
+"name":"MNO",	
+"data": [4,16,28,12,30]
+}
+]
+}
