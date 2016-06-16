@@ -33,7 +33,7 @@ app.controller('TilesController',function($scope,$http){
 	$http.get("json/tilesData.json").then(function(response){
 		$scope.tilesData=response.data.Tiles;
 	});
-	$scope.tab=3;
+	$scope.tab=1;
 	$scope.setTab = function(tabNo){
       $scope.tab = tabNo;
     };
