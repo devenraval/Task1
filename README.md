@@ -14,7 +14,8 @@ This is the demo task for angularJs and HighCharts with JSON
 11.     The search functionality is implemented via Filters
 12. ==
 13. Charts
-14.     HighCharts populated from JSON object
+14.     HighCharts populated from JSON data
 15.     Line, Column chart for complex data and pie chart for simple data
-16.     Implemented for Data on sales and marketing
+16.     Implemented for Data on sales and marketing with controllers
+17.     Implemented far Data on finance with custom Directives
 
